@@ -1,2 +1,2 @@
 # hello-world
-It's time for me to get used to this.
+This is a read-me file for branch.
